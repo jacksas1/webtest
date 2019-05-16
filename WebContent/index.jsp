@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-index
+index 呵呵
 </body>
 </html>
